@@ -1,0 +1,5 @@
+Use vi <filename> to open the file in vi editor.
+Press 'i' to enter insert mode.
+Press 'ESC' to leave insert mode.
+Press ':' to enter command mode.
+Press ";q!" to quit without saving.
